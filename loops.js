@@ -7,3 +7,5 @@ function forLoop(array) {
     }
   } return array;
 }
+
+function forLoop(array) {
